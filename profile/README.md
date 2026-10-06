@@ -34,13 +34,6 @@ Our work covers the full energy project lifecycle: conceptual development, feasi
 | 📊 **Energy Tool Suite** | Intuitive energy planning software, a one-stop shop to upload and analyze data, compare energy system scenarios, and build an action plan. |
 | 🔬 **Cleantech Commercialization** | Helping new energy technologies get from the lab to the field. |
 
-## Our tools
-
-- **[Grid Navigator (GridNav)](https://www.protogen.com/tools)**: portfolio-scale energy analysis and financial modeling, made simple.
-- **[Microgrid Navigator (MGNav)](https://www.protogen.com/tools)**: advanced data analysis to scope and scale microgrid projects.
-- **[HybridFAST](https://www.protogen.com/tools)**: Hybrid System Financial Advisory Spreadsheet Tool, with simple inputs and complete financial visibility.
-- **[RE-Mixer](https://www.protogen.com/tools)**: Renewable Energy Mix Tool for regional energy transition modeling and portfolio optimization.
-
 ## Get in touch
 
 **Ready to take charge of your energy future?** [Contact us](https://www.protogen.com/contact) to talk about your project and your goals.
