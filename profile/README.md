@@ -41,20 +41,6 @@ Our work covers the full energy project lifecycle: conceptual development, feasi
 - **[HybridFAST](https://www.protogen.com/tools)**: Hybrid System Financial Advisory Spreadsheet Tool, with simple inputs and complete financial visibility.
 - **[RE-Mixer](https://www.protogen.com/tools)**: Renewable Energy Mix Tool for regional energy transition modeling and portfolio optimization.
 
-## Open source
-
-| Repository | Description |
-|---|---|
-| [moodle-railway-5.1.3](https://github.com/protogen-org/moodle-railway-5.1.3) | Quickly spin up a Moodle LMS sandbox on Railway for development, testing, and evaluation. |
-| [ESAMTAC-Virtual-Lab_Desktop](https://github.com/protogen-org/ESAMTAC-Virtual-Lab_Desktop) | Download for the ESAMTAC Virtual Lab (desktop version). |
-
-## Who we work with
-
-Commercial and industrial companies, real estate developers, educational institutions, national laboratories, federal agencies, state energy offices, and municipal and tribal governments, along with national industry and labor groups such as **IBEW** and **NECA**.
-
-> *"ProtoGen has added significant value to our national training and certification initiatives for contractors and electrical workers."*
-> — Bernie Kotlier, IBEW–NECA, California & Nevada
-
 ## Get in touch
 
 **Ready to take charge of your energy future?** [Contact us](https://www.protogen.com/contact) to talk about your project and your goals.
